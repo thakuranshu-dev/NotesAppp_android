@@ -53,9 +53,6 @@ Contributions are welcome! Here's how you can contribute to the project:
     ```bash
     git push origin feature/YourFeatureName
 5. #### Open a pull request.
-   
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 Thanks to the open-source community for their support.
