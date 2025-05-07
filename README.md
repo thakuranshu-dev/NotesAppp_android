@@ -11,7 +11,7 @@ NotesAppp Android is a 100% Java-based Android application designed to simplify 
 - ⚡ Lightweight and fast performance.
 
 ## 🛠️ Technologies Used
-- Language: Java
+- Language: Java, XML
 - Platform: Android
 
 ## 📖 Getting Started
