@@ -42,7 +42,6 @@ Follow these instructions to set up and run the NotesAppp Android project on you
 
 ## 🤝 Contribution
 Contributions are welcome! Here's how you can contribute to the project:
-
 1. #### Fork the repository.
 2. #### Create a feature branch:
     ```bash
