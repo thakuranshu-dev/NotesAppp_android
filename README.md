@@ -54,6 +54,10 @@ Contributions are welcome! Here's how you can contribute to the project:
     git push origin feature/YourFeatureName
 5. #### Open a pull request.
 
-## Acknowledgments
+## 📜 License
+
+This repository is currently unlicensed.
+
+## 🙏 Acknowledgments
 Thanks to the open-source community for their support.
 Special thanks to everyone contributing to this project.
